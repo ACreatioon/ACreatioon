@@ -1,10 +1,20 @@
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamNiajN6c3FjN3dvZmhxeG5tbjF5YnQzdGR4NXJjbDkzbjFvaXJzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ytVgZ6Ea4y5aiEG8IY/giphy.gif" width="20%" height="20%" alt="thin coding gif" />
+</p>
+
 <h1 align="center">Hi there 👋, I'm Almas Tegar Setiawan</h1>
-<h3 align="center">Fullstack Engineer | 1+ Years Experience | Passionate about Web Development</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=435&lines=Fullstack+Engineer;Laravel+%2B+React+Developer;Always+Learning;Let’s+Build+Together!" alt="Typing SVG" />
+</p>
+
+<h3 align="center">1+ Years Experience | Passionate about Web Development</h3>
 
 <p align="center">
   🚀 I love building modern, performant web apps using Laravel and React-based tools.<br/>
   I focus on writing clean, maintainable code and learning best practices in web engineering.
 </p>
+
 
 ---
 
@@ -16,10 +26,10 @@
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,supabase,git,vscode,figma" height="48" />
 </p>
 
-- 🔹 **Frontend:** React.js, Next.js, Tailwind CSS, TypeScript
-- 🔹 **Backend:** Laravel, REST API, Authentication (JWT/Sanctum)
-- 🔹 **Database:** MySQL, PostgreSQL, Supabase
-- 🔹 **Tools:** Git, VSCode, Figma, Postman
+- 🔹 **Frontend:** React.js, Next.js, Tailwind CSS, TypeScript  
+- 🔹 **Backend:** Laravel, REST API, Authentication (JWT/Sanctum)  
+- 🔹 **Database:** MySQL, PostgreSQL, Supabase  
+- 🔹 **Tools:** Git, VSCode, Figma, Postman  
 
 ---
 
