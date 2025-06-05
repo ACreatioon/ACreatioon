@@ -51,7 +51,7 @@ Here are some of the projects I’m most proud of:
   <a href="https://www.linkedin.com/in/almastegar/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
   </a>
-  <a href="mailto:almastegar@example.com">
+  <a href="mailto:setialmas77@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="40" />
   </a>
   <a href="https://yourportfolio.com" target="_blank">
