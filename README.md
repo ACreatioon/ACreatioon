@@ -1,6 +1,6 @@
 - **Name: Almas Tegar Setiawan**
 - **Role: Fullstack Engineers** 
-- **Experience: 1+ Years as Frontend Engineers**
+- **Experience: 1+ Years as Fullstack Engineers**
 ---
 
 ## Technologies and tools that I have worked with
