@@ -1,4 +1,4 @@
-<img align="center" width="100%" height="200px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHQ5Z2NvcXR3ZzQ5a2xkb3FmbTZjeTl3dWluNms0Zjl5NXMydnNhYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/whoXRhu4Qj07eomK5x/giphy.gif">
+<img align="center" width="100%" height="200px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHQ5Z2NvcXR3ZzQ5a2xkb3FmbTZjeTl3dWluNms0Zjl5NXMydnNhYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/whoXRhu4Qj07eomK5x/giphy.gif" style="object-fit: cover; height: 400px;">
 
 <h1 align="center">Hi there 👋, I'm Almas Tegar Setiawan</h1>
 
