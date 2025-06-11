@@ -1,60 +1,23 @@
-<img align="center" width="100%" height="200px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHQ5Z2NvcXR3ZzQ5a2xkb3FmbTZjeTl3dWluNms0Zjl5NXMydnNhYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/whoXRhu4Qj07eomK5x/giphy.gif" style="object-fit: cover; height: 400px;">
-
 <h1 align="center">Hi there 👋, I'm Almas Tegar Setiawan</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=435&lines=Fullstack+Engineer;Laravel+%2B+React+Developer;Always+Learning;Let’s+Build+Together!" alt="Typing SVG" />
 </p>
 
-<h3 align="center">1+ Years Experience | Passionate about Web Development</h3>
-
-<p align="center">
-  🚀 I love building modern, performant web apps using Laravel and React-based tools.<br/>
-  I focus on writing clean, maintainable code and learning best practices in web engineering.
-</p>
+## 💫 About Me:
+1+ Years Experience | Passionate about Web Development<br>🚀 I love building modern, performant web apps using Laravel and React-based tools.<br>I focus on writing clean, maintainable code and learning best practices in web engineering.
 
 
----
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/almas) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/almas) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/setia.almas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/almas) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@almas) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@almas) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:setialmas77@gmail.com) 
 
-## 🧰 My Toolbox
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,laravel" height="48" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,supabase,git,vscode,figma" height="48" />
-</p>
-
-- 🔹 **Frontend:** React.js, Next.js, Tailwind CSS, TypeScript  
-- 🔹 **Backend:** Laravel, REST API, Authentication (JWT/Sanctum)  
-- 🔹 **Database:** MySQL, PostgreSQL, Supabase  
-- 🔹 **Tools:** Git, VSCode, Figma, Postman  
+# 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ACreatioon&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ACreatioon&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ACreatioon&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=ACreatioon&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Projects I've Built
-
-Here are some of the projects I’m most proud of:
-
-- 🔸 **Edupay** – Digital school payment system with real-time notifications and admin dashboard  
-  _Stack: NextJS, Supabase, Framer Motion_
-
-- 🔸 **TopupGameSegrima** – Landing page for a top-up gaming platform with smooth animations and responsive design  
-  _Stack: React, Tailwind CSS, Framer Motion, Laravel, Inertia_
-
-- 🔸 **PSB SMK** – Knowledge base system for school admission built with DIFY AI
-
----
-
-## 🌐 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/almastegar/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
-  </a>
-  <a href="mailto:setialmas77@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" />
-  </a>
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
