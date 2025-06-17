@@ -1,5 +1,5 @@
 <h1 align="center" style="text-shadow: 0 0 10px #00f0ff;">🌟 Hi there 👋, I'm <span style="color:#00ffff;">Almas Tegar Setiawan</span></h1>
-ngoding bisa ngertinya kapan kapan
+<h1 align="center" style="text-shadow: 0 0 10px #00f0ff;">🌟 Hi there 👋, I'm <span style="color:#00ffff;">Ngoding Bisa !!, Ngertinya ??, Kapan Kapan 😁👍</span></h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=435&lines=Fullstack+Engineer;Laravel+%2B+React+Developer;Always+Learning;Let’s+Build+Together!" alt="Typing SVG" />
 </p>
