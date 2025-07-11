@@ -23,9 +23,9 @@
 
 ## 🌐 Socials:
 <p align="left">
-<a href="https://discord.gg/almas" target="_blank"><img src="https://skillicons.dev/icons?i=discord" width="40"/></a>
+<a href="https://discord" target="_blank"><img src="https://skillicons.dev/icons?i=discord" width="40"/></a>
 <a href="https://instagram.com/setia.almas" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="40"/></a>
-<a href="https://linkedin.com/in/almas" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+<a href="https://linkedin.com" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
 <a href="mailto:setialmas77@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
 </p>
 
